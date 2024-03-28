@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function App() {
+export default function Resume() {
   return (
     <main className="p-4">
       <section className="flex flex-col items-center">
