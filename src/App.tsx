@@ -1,7 +1,7 @@
 import React from "react";
 import { useState } from "react";
-import Resume from "./Resume";
-import Inputs from "./Inputs";
+import Resume from "./components/Resume";
+import Inputs from "./components/Inputs";
 
 export default function App() {
   const [inputs, setInputs] = useState({
